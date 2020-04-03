@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+glob = "*"
+re = "*"
+optparse = "*"
+nltk = "*"
+sys = "*"
+os = "*"
+nltk-corpus = "*"
+ne-chunk = "*"
+pos-tag = "*"
+word-tokenize = "*"
+sent-tokenize = "*"
+optionparser = "*"
+wordnet = "*"
+numpy = "*"
+spacy = "*"
+tree = "*"
+nltk-tree = "*"
+git = "*"
+
+[requires]
+python_version = "3.8"
