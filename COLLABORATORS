@@ -1,0 +1,45 @@
+
+#NLTK:
+http://www.nltk.org/book_1ed/ch02.html
+
+#Spacy:
+https://realpython.com/natural-language-processing-spacy-python/
+
+#For Glob:
+https://docs.python.org/3/library/glob.html#module-glob
+https://www.youtube.com/watch?v=ddylVRjAAco
+https://stackoverflow.com/questions/3207219/how-do-i-list-all-files-of-a-directory
+
+#For Names:
+https://tim.mcnamara.nz/post/2650550090/extracting-names-with-6-lines-of-python-code
+https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk/24119115
+
+## For Date :
+https://github.com/markuskiller/textblob-de/blob/dev/textblob_de/ext/_pattern/text/de/__init__.py#L186-L199
+https://blog.softhints.com/python-regex-match-date/
+http://regexlib.com/DisplayPatterns.aspx?cattabindex=4&categoryId=5
+
+# For concepts:
+https://stackoverflow.com/questions/48049619/how-to-get-similar-words-related-to-one-word
+https://stackoverflow.com/questions/25117508/how-to-find-out-synonym-or-related-sentence-of-a-word-in-a-given-text-file-using
+https://towardsdatascience.com/very-simple-python-script-for-extracting-most-common-words-from-a-story-1e3570d0b9d0
+https://stackoverflow.com/questions/5534926/to-find-synonyms-definitions-and-example-sentences-using-wordnet/19046417
+https://github.com/explosion/spaCy/issues/276
+https://www.guru99.com/wordnet-nltk.html
+https://towardsdatascience.com/very-simple-python-script-for-extracting-most-common-words-from-a-story-1e3570d0b9d0
+http://wordnetweb.princeton.edu/perl/webwn?o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=&o3=&o4=&s=small&i=3&h=00100000000000000#c
+https://stackoverflow.com/questions/19258652/how-to-get-synonyms-from-nltk-wordnet-python
+https://stackoverflow.com/questions/5534926/to-find-synonyms-definitions-and-example-sentences-using-wordnet
+https://stackoverflow.com/questions/35117028/synonyms-join-with-a-string-of-words-in-python
+https://www.researchgate.net/post/How_can_one_find_the_category_of_a_word_from_thesaurus_using_python_script
+https://subscription.packtpub.com/book/application_development/9781782167853/1/ch01lvl1sec15/looking-up-lemmas-and-synonyms-in-wordnet
+https://www.tutorialspoint.com/how-to-get-synonyms-antonyms-from-nltk-wordnet-in-python
+
+#For Flag :
+https://docs.python.org/2/library/optparse.html
+https://stackoverflow.com/questions/4960880/understanding-optionparser
+https://stackoverflow.com/questions/24312183/optionparser-display-choices-when-help-in-python
+https://stackoverflow.com/questions/24312183/optionparser-display-choices-when-help-in-python
+https://www.saltycrane.com/blog/2009/09/python-optparse-example/
+https://www.programcreek.com/python/example/99/optparse.OptionParser
+
